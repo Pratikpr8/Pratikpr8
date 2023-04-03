@@ -1,4 +1,4 @@
-# Pratik Puri :)
+# pratik puri :)
 
 Hello! My name is Pratik and I've been learning development.
 
