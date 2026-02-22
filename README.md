@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratik.</h1>
-<h3 align="center">I'm a Software Engineer from Nepal.</h3>
+<h3 align="center">Frontend Software Engineer | React.js | Next.js | Typescript</h3>
 
 - 📫 How to reach me **pratikpuri.pr@gmail.com**
 
