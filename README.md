@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratik.</h1>
 <h3 align="center">I'm a Software Engineer from Nepal.</h3>
 
-- 👨‍💻 All of my projects are available at [https://pratikpr8.github.io/portfolio-new/](https://pratikpr8.github.io/portfolio-new/)
-
 - 📫 How to reach me **pratikpuri.pr@gmail.com**
 
 
